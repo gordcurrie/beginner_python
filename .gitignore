@@ -90,3 +90,6 @@ ENV/
 .idea/
 
 *.jrl
+
+*.jpg
+.DS_Store
